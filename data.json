@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-10-20T15:27:09.837Z",
+ "guncelleme": "2026-10-20T19:27:11.429Z",
  "kaynak": "doviz.com (Forinvest) · fintables.com",
  "uyari": "BIST verisi 15 dakika gecikmelidir. Yatırım tavsiyesi değildir.",
  "hisseler": {
@@ -1133,7 +1133,7 @@
      "u": "https://haber.doviz.com/borsa-haberleri/koc-finansman-ford-otosan-a-satiliyor/826701"
     },
     {
-     "t": "Borsa İstanbul'da işlem gören RAL Yatırım Holding konkordato ilan etti RAL Yatırım Holding, finansmana erişimde yaşadığı güçlük ve likidite baskısı nedeniyle konkordato başvurusu yaptı. 8 saat önce",
+     "t": "Borsa İstanbul'da işlem gören RAL Yatırım Holding konkordato ilan etti RAL Yatırım Holding, finansmana erişimde yaşadığı güçlük ve likidite baskısı nedeniyle konkordato başvurusu yaptı. 12 saat önce",
      "u": "https://haber.doviz.com/borsa-haberleri/borsa-istanbul-da-islem-goren-ral-yatirim-holding-konkordato-ilan-etti/943390"
     }
    ]
@@ -1732,10 +1732,10 @@
   ],
   "makro": {
    "bist100": "11.797,70",
-   "dolar": "49,5754",
-   "euro": "55,7360",
-   "gramAltin": "6.590,33",
-   "brent": "108,20"
+   "dolar": "49,5733",
+   "euro": "55,7470",
+   "gramAltin": "6.570,91",
+   "brent": "109,28"
   }
  },
  "tly": {
